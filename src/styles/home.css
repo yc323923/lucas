@@ -1,0 +1,28 @@
+.homeContainer{
+    width: 1280px;
+    margin: 0 auto;
+}
+.homeContainer header{
+    margin-top:20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.homeContainer .searchContainer{
+    width: 700px;
+}
+.homeContainer .userContainer span{
+    margin-left: 10px;
+    display: inline-block;
+}
+.homeContainer .tagContainer span{
+    margin-right: 10px;
+    display: inline-block;
+}
+.homeContainer .tagContainer{
+    margin-bottom: 20px;
+}
+
+.homeContainer .contentContainer{
+  
+}
